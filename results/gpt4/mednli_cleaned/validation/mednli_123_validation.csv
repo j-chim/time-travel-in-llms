@@ -1,0 +1,11 @@
+idx,label,generated_guided_completion,generated_general_completion,rouge_score_for_general_completion,rouge_score_for_guided_completion,gpt4_icl_evaluation
+61,contradiction,The patient's catheterization laboratory results showed no signs of mitral regurgitation or a right-dominant coronary system.,"In the same laboratory, it was determined that she had a healthy mitral valve and a left-dominant coronary system.",0.0,0.0,No
+1241,neutral,The patient's discomfort was relatively steady and felt like cramps.,He enjoys playing chess on weekends.,0.0,0.25,No
+1339,contradiction,The patient is currently experiencing symptoms from their past stroke.,The patient still experiences lingering effects from the stroke in [**3190**].,0.0,0.0,No
+598,contradiction,The patient's chest x-ray showed no abnormalities.,The patient's chest x-ray showed no signs of any new left pleural effusion.,0.43,0.59,Yes (near-exact match)
+898,contradiction,The patient has never had a colonoscopy.,The patient has never had a history of colonic polyps or undergone ablation.,0.44,0.0,No
+141,entailment,The patient does not have a heart murmur.,There is no heart murmur detected in the cardiovascular S1 and S2.,0.1,0.75,No
+746,neutral,The patient has a history of Crohn's disease and has had two exacerbations during this pregnancy.,The mother enjoys painting as a hobby.,0.27,0.32,No
+1009,contradiction,The patient's vital signs were within normal limits.,The patient in the [**Name (NI) **] had a normal heart rate and temperature.,0.25,0.6,No
+320,neutral,"The patient has a history of substance abuse, congestive heart failure with an ejection fraction of 55%, diastolic dysfunction, vancomycin-resistant enterococci, methicillin-resistant Staphylococcus aureus, chronic pain, right shoulder pain, anemia of chronic disease, and constipation.",The patient enjoys painting in their free time.,0.15,0.19,No
+18,entailment,The patient has been eating and drinking normally.,She has been eating and drinking normally at her location.,0.37,0.57,No

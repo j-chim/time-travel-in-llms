@@ -1,0 +1,11 @@
+idx,label,generated_guided_completion,generated_general_completion,rouge_score_for_general_completion,rouge_score_for_guided_completion,gpt4_icl_evaluation
+422,contradiction,There is a noticeable consolidation in the lung.,There is evidence of pleural effusion and pneumothorax.,0.31,0.31,No
+279,neutral,The report indicates an enlarged heart but no signs of pulmonary edema.,The patient has a history of chronic back pain.,0.12,0.11,No
+5,neutral,The heart and mediastinum size are within normal limits.,The patient has a history of high blood pressure.,0.13,0.13,No
+299,contradiction,The patient's lungs are completely clear with no signs of pneumonia or other abnormalities.,The patient definitely does not have pneumonia.,0.0,0.14,No
+398,entailment,There is no visible pleural effusion or pneumothorax.,The patient does not have pleural effusion or pneumothorax.,0.25,0.67,Yes (near-exact match)
+11,neutral,The patient's lung volumes are low.,The weather is sunny today.,0.22,0.0,No
+423,contradiction,The patient's right pleural effusion is minor and there is no sign of atelectasis.,The underlying consolidation is clearly visible and easy to identify.,0.21,0.25,No
+237,neutral,The lungs are clear.,The patient's blood pressure is within normal range.,0.27,0.2,No
+34,neutral,The patient has small bilateral pleural effusions.,The patient enjoys playing chess in his free time.,0.0,0.27,No
+36,neutral,The patient does not have a large pleural effusion or pneumothorax.,The patient's blood pressure is within normal range.,0.11,0.1,No

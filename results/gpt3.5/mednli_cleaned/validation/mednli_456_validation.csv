@@ -1,0 +1,11 @@
+idx,label,generated_guided_completion,generated_general_completion,rouge_score_for_general_completion,rouge_score_for_guided_completion,gpt4_icl_evaluation
+61,contradiction,"In the catheterization laboratory, she was found to have no mitral regurgitation and a left-dominant coronary system.","However, further examination revealed that she actually had a left-dominant coronary system.",0.0,0.0,No
+1339,contradiction,There was no stroke in the past with diagnosis by MR in [**3190**] and there were no residual deficits.,The patient currently experiences severe motor impairment and cognitive deficits.,0.0,0.08,No
+1241,neutral,His pain was not severe and did not change in intensity.,He found it difficult to focus on anything else.,0.0,0.13,No
+598,contradiction,The patient did not experience an increase in shortness of breath and a chest x-ray did not reveal a new left pleural effusion.,The patient's symptoms improved after receiving treatment for the pleural effusion.,0.2,0.38,No
+746,neutral,"This pregnancy is notable for a maternal past history of Crohn's disease, with two exacerbations during this pregnancy, requiring hospitalization.",The exacerbations of Crohn's disease during this pregnancy have been challenging for the patient and required medical intervention.,0.15,0.07,No
+1009,contradiction,"In the [**Name (NI) **], pt was noted to have a temp of 100.5, HR 140s-150s, ANC 256.","However, the patient's vital signs were stable and within normal range.",0.52,0.07,No
+320,neutral,"Hx of substance abuse CHF EF 55% Diastolic dysfunction VRE, MRSA Hx of chronic pain Right shoulder pain Anemia of chronic disease Constipation",The patient has a complex medical history.,0.33,0.14,No
+18,entailment,Her appetite and PO intake have been normal.,She is in good health.,0.0,0.14,No
+898,contradiction,[**Doctor Last Name 2217**] did not have an ablation in [**2972**] and did not have colonic polyps per colonoscope on [**2982-3-25**].,The patient has never had any previous medical procedures.,0.0,0.14,No
+141,entailment,Cardiovascular S1 and S2 without murmur.,There is no evidence of any abnormal heart sounds.,0.35,0.0,No

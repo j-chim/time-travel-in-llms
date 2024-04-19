@@ -1,0 +1,11 @@
+idx,label,generated_guided_completion,generated_general_completion,rouge_score_for_general_completion,rouge_score_for_guided_completion,gpt4_icl_evaluation
+1182,entailment,The patient was unable to leave her bed due to weakness.,She couldn't leave her bed due to her weakness today.,0.13,0.0,No
+1404,entailment,"The twin was healthy at birth, as indicated by the Apgar scores.","The twin was healthy at birth, as indicated by the high Apgar scores.",0.0,0.0,No
+921,entailment,The patient was given 1 liter of normal saline.,The patient was given 1 liter of Normal Saline.,0.31,0.31,No
+952,contradiction,The patient's group beta strep status is confirmed.,The mother's group beta strep status is confirmed positive.,0.27,0.43,No
+320,neutral,The patient's preoperative tests did not show any signs of metastasis from his hepatoma.,He enjoys playing chess in his free time.,0.0,0.11,No
+35,neutral,The patient has a history of severe pulmonary hypertension and is currently experiencing increasing difficulty breathing.,The patient also has a history of diabetes and hypertension.,0.29,0.2,No
+970,contradiction,The patient's pulses did not return after intubation.,The patient's pulses did not return even after intubation.,0.25,0.27,No
+1109,neutral,The patient was showing signs of Kussmaul breathing and was tachycardic in the emergency department.,The patient enjoys playing chess in his free time.,0.14,0.1,No
+587,neutral,"The patient has a history of alcoholism, which has led to delirium tremens and seizures.",The patient has a history of diabetes.,0.4,0.22,No
+1120,contradiction,The patient's heart rate remained stable after the administration of Atropine.,"After receiving Atropine, her heart rhythm stabilized and she did not experience any further cardiac events.",0.0,0.12,No

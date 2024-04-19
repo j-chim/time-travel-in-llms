@@ -1,0 +1,11 @@
+idx,label,generated_guided_completion,generated_general_completion,rouge_score_for_general_completion,rouge_score_for_guided_completion,gpt4_icl_evaluation
+4701,entailment,The patient did not undergo CPAP in the ED.,The patient did not undergo CPAP treatment in the ED.,0.22,0.24,No
+8169,entailment,"The patient received a transfusion of 1 unit of packed cells and her hematocrit level was measured again, showing a value of 30.",Her hematocrit level increased after receiving 1 unit of packed cells.,0.0,0.22,No
+7295,neutral,"The left anterior descending is a small vessel with severe diffuse disease from the proximal to midvessel, with up to 90% stenosis.",The patient enjoys playing tennis on the weekends.,0.24,0.06,No
+8835,entailment,The patient experienced a decrease in oxygen saturation during the car seat test.,The car seat test showed a decrease in oxygen saturation levels.,0.2,0.27,No
+4082,neutral,The patient has coronary artery disease.,The sun is shining brightly today.,0.2,0.6,No
+3976,contradiction,The patient states that his pain has been completely relieved.,His actions successfully eased the pain.,0.4,0.43,No
+5175,entailment,The patient has an elevated WBC count.,The patient has a high white blood cell count and elevated lactate levels.,0.42,0.15,No
+802,contradiction,The patient has no history of gastrointestinal bleeding.,"The patient's GI bleed was found in the sigmoid colon, not the hepatic flexure.",0.09,0.27,No
+10806,entailment,The patient underwent a CT guided omental biopsy.,A biopsy was conducted on [**2731-11-11**].,0.0,0.29,No
+3719,neutral,"The patient has a history of 2 infrarenal aortic aneurysms, hypertension, coronary artery disease, and dyslipidemia.",The patient enjoys reading mystery novels in their spare time.,0.25,0.18,No

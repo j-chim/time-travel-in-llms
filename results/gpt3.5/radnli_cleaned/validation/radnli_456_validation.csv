@@ -1,0 +1,11 @@
+idx,label,generated_guided_completion,generated_general_completion,rouge_score_for_general_completion,rouge_score_for_guided_completion,gpt4_icl_evaluation
+422,contradiction,"There is focal consolidation, pleural effusion or pneumothorax present.","However, there is evidence of a small pneumothorax in the left lung.",0.2,0.3,No
+5,neutral,The cardiomediastinal silhouette is within normal limits.,There are no abnormalities in the heart and mediastinum.,0.13,0.62,No
+279,neutral,"The heart is not enlarged, and there is no pulmonary edema.",The absence of pulmonary edema suggests that the enlarged heart may be due to a different underlying cause.,0.08,0.11,No
+299,contradiction,"There are no small bilateral pleural effusions and bibasilar atelectasis, and an underlying pneumonia cannot be excluded.","Despite the presence of small bilateral pleural effusions and bibasilar atelectasis, further tests are needed to confirm or rule out the presence of pneumonia.",0.11,0.2,No
+423,contradiction,"There is no moderate to large right pleural effusion with overlying atelectasis, underlying consolidation is difficult to exclude.","However, further imaging studies are needed to confirm the presence of underlying consolidation.",0.09,0.3,No
+237,neutral,The cardiac and mediastinal silhouettes show no significant changes.,There have been no significant changes in the cardiac and mediastinal silhouettes.,0.22,0.27,No
+34,neutral,Bilateral pleural effusions are small.,There is no significant change in the patient's condition.,0.11,0.31,No
+36,neutral,There is no large pleural effusion or pneumothorax.,The patient's chest x-ray appears normal.,0.11,0.22,No
+398,entailment,There is no presence of pleural effusion or pneumothorax.,There is no accumulation of fluid in the pleural cavity or presence of air in the pleural space.,0.4,0.63,Yes (near-exact match)
+11,neutral,Lung volumes are not high.,This can be due to a variety of factors.,0.0,0.0,No

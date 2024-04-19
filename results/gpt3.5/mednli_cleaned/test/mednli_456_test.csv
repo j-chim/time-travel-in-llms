@@ -1,0 +1,11 @@
+idx,label,generated_guided_completion,generated_general_completion,rouge_score_for_general_completion,rouge_score_for_guided_completion,gpt4_icl_evaluation
+1182,entailment,Today she was too weak to leave her bed.,Today she was unable to perform any physical activities.,0.14,0.14,No
+921,entailment,The patient received 1 liter of normal saline.,The patient was given 1 liter of normal saline.,0.31,0.33,No
+1404,entailment,The twin was born healthy and had good Apgar scores of 8 at one minute and 9 at five minutes.,The twin's Apgar scores indicate that they were in good overall health at birth.,0.0,0.0,No
+952,contradiction,"Maternal prenatal screens, blood type AB positive, antibody negative, RPR nonreactive, rubella immune, hepatitis B surface antigen negative, and group beta strep status known.",The mother's blood type is O negative.,0.31,0.07,No
+970,contradiction,The patient did not receive treatment and pulses did not return once intubated.,The patient's condition worsened after receiving treatment and intubation.,0.25,0.21,No
+1109,neutral,The patient in the emergency department was displaying Kussmaul breathing and had an elevated heart rate.,The healthcare provider monitored the patient's vital signs closely.,0.13,0.19,No
+587,neutral,Alcoholism with delirium tremens and seizures (grand mal 2 months ago),"The patient presented with severe alcoholism, which may have contributed to the development of DTs and seizures.",0.1,0.0,No
+1120,contradiction,"In the Emergency Department, she did not have an asystolic arrest and was not given Atropine multiple times which converted her to ventricular fibrillation arrest and then to ventricular tachycardia.","However, the administration of Atropine should have improved her heart rhythm, not worsened it.",0.0,0.06,No
+320,neutral,His preoperative work-up did not show any signs of metastasis from his hepatoma.,This indicates that the cancer has not spread to other parts of the body.,0.11,0.11,No
+35,neutral,"This patient has a complex medical history, including chronic lung disease, congenital heart disease, and pulmonary emboli, and is currently experiencing worsening shortness of breath.",She is seeking medical attention to address her worsening breathing difficulties.,0.0,0.14,No

@@ -1,0 +1,11 @@
+idx,label,generated_guided_completion,generated_general_completion,rouge_score_for_general_completion,rouge_score_for_guided_completion,gpt4_icl_evaluation
+422,neutral,Heart size remains constant.,There are no significant changes in heart size over time.,0.14,0.0,No
+279,neutral,There is no pneumothorax or focal airspace consolidation.,This indicates that the patient's lungs are clear and there are no abnormalities present.,0.18,0.53,No
+5,neutral,Bony structures are normal and show no abnormalities.,There are no abnormalities or abnormalities are not present.,0.12,0.13,No
+299,neutral,There is no pneumothorax.,There is no need for a chest tube insertion.,0.3,0.53,No
+398,contradiction,Moderate right pleural effusion is not likely.,There is no evidence of any pleural effusion.,0.67,0.29,No
+11,contradiction,PA and lateral chest radiographs do not demonstrate a normal cardiomediastinal silhouette.,There is evidence of an enlarged heart on the chest radiographs.,0.08,0.16,No
+423,neutral,Lung volumes are not increased.,This can be due to various factors.,0.0,0.0,No
+237,contradiction,There is pulmonary edema.,There is evidence of fluid accumulation in the lungs.,0.32,0.43,No
+34,neutral,No other areas of consolidation are observed.,There is no evidence of any other abnormalities.,0.17,0.17,No
+36,neutral,There is no pleural effusion pneumothorax.,"There is no pleural effusion pneumothorax, indicating a normal chest x-ray.",0.38,0.53,No

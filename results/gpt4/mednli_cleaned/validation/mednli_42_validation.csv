@@ -1,0 +1,11 @@
+idx,label,generated_guided_completion,generated_general_completion,rouge_score_for_general_completion,rouge_score_for_guided_completion,gpt4_icl_evaluation
+746,neutral,"The patient has a history of Crohn's disease and has had two flare-ups during her current pregnancy, necessitating hospital stays.",The mother enjoys painting as a hobby.,0.27,0.27,No
+1009,contradiction,The patient's vital signs are stable and within normal limits.,The patient in the [**Name (NI) **] had a normal heart rate and temperature.,0.25,0.64,No
+898,contradiction,The patient has never had a colonoscopy.,The patient has never had a history of colonic polyps or ablation.,0.47,0.0,No
+320,neutral,"The patient has a history of substance abuse, congestive heart failure with an ejection fraction of 55%, diastolic dysfunction, vancomycin-resistant enterococci, methicillin-resistant Staphylococcus aureus, chronic pain, right shoulder pain, anemia of chronic disease, and constipation.",The patient enjoys painting in their free time.,0.15,0.19,No
+598,contradiction,The patient's breathing has been normal with no signs of pleural effusion.,The patient's chest x-ray showed no signs of any new left pleural effusion.,0.43,0.38,No
+1241,neutral,The patient's discomfort was relatively steady and felt like cramps.,He enjoys playing chess on weekends.,0.0,0.25,No
+1339,contradiction,The patient still suffers from deficits due to the past stroke.,The patient still experiences lingering effects from the stroke in [**3190**].,0.0,0.0,No
+141,entailment,The patient does not have a heart murmur.,The heart sounds S1 and S2 are normal with no heart murmur detected.,0.29,0.75,No
+61,contradiction,The patient has a left-dominant coronary system.,"In the same laboratory, it was determined that she had a healthy mitral valve and a left-dominant coronary system.",0.0,0.0,No
+18,entailment,The patient has been eating and drinking normally.,She has been eating and drinking normally.,0.46,0.57,No

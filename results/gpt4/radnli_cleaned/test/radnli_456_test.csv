@@ -1,0 +1,11 @@
+idx,label,generated_guided_completion,generated_general_completion,rouge_score_for_general_completion,rouge_score_for_guided_completion,gpt4_icl_evaluation
+422,neutral,The size of the heart has not changed.,The color of a heart can vary.,0.0,0.0,No
+5,neutral,The soft tissues are normal.,The patient's blood pressure is within normal range.,0.0,0.17,No
+279,neutral,The lungs are clear.,The patient has a history of chronic bronchitis.,0.0,0.0,No
+299,neutral,The patient does not have a pneumothorax.,The patient has a normal heart rate.,0.0,0.11,No
+423,neutral,This can lead to difficulty in breathing.,The sun sets in the west.,0.0,0.0,No
+237,contradiction,The patient's lungs are filled with fluid.,The patient is suffering from pulmonary edema.,0.35,0.11,No
+34,neutral,The lungs are clear.,The patient's blood pressure is within normal range.,0.08,0.1,No
+36,neutral,The patient does not have a pleural effusion pneumothorax.,The patient has a healthy lung condition.,0.0,0.33,No
+398,contradiction,There is no sign of right pleural effusion.,There is no sign of moderate right pleural effusion.,0.63,0.67,No
+11,contradiction,The chest radiographs show an abnormal cardiomediastinal silhouette.,The chest radiographs show an abnormality in the cardiomediastinal silhouette.,0.09,0.1,No

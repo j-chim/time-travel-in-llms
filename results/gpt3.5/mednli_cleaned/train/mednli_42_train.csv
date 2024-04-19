@@ -1,0 +1,11 @@
+idx,label,generated_guided_completion,generated_general_completion,rouge_score_for_general_completion,rouge_score_for_guided_completion,gpt4_icl_evaluation
+5175,entailment,WBC is elevated to 14 and lactate is 3.0.,The patient may have an infection or inflammation.,0.0,0.0,No
+802,contradiction,The 73-year-old woman with GI bleed does not have any localization to the hepatic flexure on the tagged red blood cell scan.,The patient's medical history does not indicate any previous instances of gastrointestinal bleeding.,0.1,0.06,No
+4082,neutral,Coronary artery disease is a medical condition that affects the arteries supplying blood to the heart.,Is a common type of heart disease.,0.0,0.1,No
+10806,entailment,A CT guided omental biopsy was performed on [**2731-11-11**] due to the nonspecific nature of these findings.,The CT guided omental biopsy was performed to further investigate the nonspecific nature of the findings.,0.09,0.08,No
+8835,entailment,The screening car seat test resulted in desaturations.,The desaturations were a direct result of the screening car seat test.,0.29,0.24,No
+8169,entailment,Her repeat hematocrit was 30.,Her hematocrit level increased after receiving the packed cells.,0.15,0.22,No
+7295,neutral,"The left anterior descending artery had significant narrowing throughout its proximal to midvessel region, with up to 90% blockage.",This finding may require further intervention or monitoring.,0.0,0.07,No
+3976,contradiction,He reports that everything he did could alleviate the pain.,"However, he continues to try different remedies in hopes of finding relief.",0.0,0.29,No
+4701,entailment,The patient declined the offer to use CPAP in the emergency department and subsequently became restless.,The patient's refusal of CPAP in the ED led to their agitation.,0.19,0.17,No
+3719,neutral,s/p cath in [**2728**] due to abnormal stress with totally occluded mid RCA and 50-70% proximal RCA with successful stenting x3.,"The patient has a history of hypertension, coronary artery disease, and dyslipidemia.",0.22,0.0,No

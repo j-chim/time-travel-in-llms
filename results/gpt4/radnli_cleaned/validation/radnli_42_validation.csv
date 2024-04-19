@@ -1,0 +1,11 @@
+idx,label,generated_guided_completion,generated_general_completion,rouge_score_for_general_completion,rouge_score_for_guided_completion,gpt4_icl_evaluation
+398,entailment,The scan does not show any pleural effusion or pneumothorax.,The patient does not have pleural effusion or pneumothorax.,0.25,0.24,Yes (near-exact match)
+5,neutral,The heart and mediastinum size are within normal limits.,The patient has a history of high blood pressure.,0.13,0.13,No
+237,neutral,The lungs are clear.,The patient's blood pressure is within normal range.,0.27,0.2,No
+422,contradiction,The patient has a severe pleural effusion.,There is evidence of pleural effusion and pneumothorax.,0.31,0.24,No
+36,neutral,The patient does not have a large pleural effusion or pneumothorax.,The patient's blood pressure is within normal range.,0.11,0.1,No
+279,neutral,"The patient's heart is bigger than normal, but there is no fluid accumulation in the lungs.",The patient has a history of chronic back pain.,0.12,0.17,No
+11,neutral,The patient's lung volumes are below average.,The sun is shining brightly today.,0.2,0.0,No
+423,contradiction,The patient's right pleural effusion is minor and there is no sign of atelectasis.,The underlying consolidation is clearly visible and easy to identify.,0.21,0.25,No
+299,contradiction,The patient's lungs are completely clear with no signs of pneumonia or other abnormalities.,The patient's test results definitively rule out the possibility of underlying pneumonia.,0.0,0.14,No
+34,neutral,The bilateral pleural effusions are not large.,The patient enjoys playing chess in his free time.,0.0,0.27,No
